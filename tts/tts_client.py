@@ -2,7 +2,7 @@
 import time, os
 from gradio_client import Client, file
 from typing import Optional, List, Dict, Any
-from .config import TTSConfig
+from config import TTSConfig
 from .utils import ensure_dir, generate_filename, validate_audio_file
 
 class SovitsTTS:

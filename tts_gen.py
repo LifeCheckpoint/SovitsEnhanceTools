@@ -3,7 +3,7 @@ import json
 from typing import Dict, List
 from tts.tts_client import SovitsTTS
 from tts.text_processor import ReferenceManager, TextSplitter
-from tts.config import TTSConfig
+from config import TTSConfig
 from tqdm import tqdm
 
 def load_references(ref_json: str) -> Dict[str, str]:
