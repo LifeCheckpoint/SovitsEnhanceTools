@@ -1,0 +1,26 @@
+[
+    {
+        "file_path": "F:/dataset/Kuro/ref/01000090.wav_0000190720_0000340800.wav",
+        "prompt_text": "君には、いいことばかりが起こるんだよ。",
+        "language": "日文",
+        "id": "0"
+    },
+    {
+        "file_path": "F:/dataset/Kuro/ref/01000090.wav_0000190720_0000340800.wav",
+        "prompt_text": "君には、いいことばかりが起こるんだよ。",
+        "language": "日文",
+        "id": "0"
+    },
+    {
+        "file_path": "F:/dataset/Kuro/ref/01006530.wav_0000000000_0000223040.wav",
+        "prompt_text": "タイガが笑顔になれてたのに、どうして私は笑顔になれないんだろう?",
+        "language": "日文",
+        "id": "1"
+    },
+    {
+        "file_path": "F:/dataset/Kuro/ref/01003260.wav_0000411520_0000533760.wav",
+        "prompt_text": "タイガはそう思ったんだよね。",
+        "language": "日文",
+        "id": "2"
+    }
+]
