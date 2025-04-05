@@ -11,5 +11,5 @@ class TTSConfig:
     
     SOVITS_PATH = "SoVITS_weights_v3/kuro_e2_s212_l64.pth"
     GPT_PATH = "GPT_weights_v3/kuro-e20.ckpt"
-    INPUT_TEXT_FILE = "input/KuroV4_GPT1.txt"
-    TASK_NAME = "KuroV4_GPT1"
+    INPUT_TEXT_FILE = "input/KuroV4_GPT2.txt"
+    TASK_NAME = "KuroV4_GPT2"

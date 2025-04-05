@@ -3,24 +3,28 @@
         "file_path": "F:/dataset/Kuro/ref/01000090.wav_0000190720_0000340800.wav",
         "prompt_text": "君には、いいことばかりが起こるんだよ。",
         "language": "日文",
-        "id": "0"
-    },
-    {
-        "file_path": "F:/dataset/Kuro/ref/01000090.wav_0000190720_0000340800.wav",
-        "prompt_text": "君には、いいことばかりが起こるんだよ。",
-        "language": "日文",
-        "id": "0"
+        "id": "0",
+        "probability": "0.5"
     },
     {
         "file_path": "F:/dataset/Kuro/ref/01006530.wav_0000000000_0000223040.wav",
         "prompt_text": "タイガが笑顔になれてたのに、どうして私は笑顔になれないんだろう?",
         "language": "日文",
-        "id": "1"
+        "id": "1",
+        "probability": "0.1"
     },
     {
         "file_path": "F:/dataset/Kuro/ref/01003260.wav_0000411520_0000533760.wav",
         "prompt_text": "タイガはそう思ったんだよね。",
         "language": "日文",
-        "id": "2"
+        "id": "2",
+        "probability": "0.3"
+    },
+    {
+        "file_path": "F:/dataset/Kuro/ref/01002520.wav_0000112960_0000288640.wav",
+        "prompt_text": "ベッドの中で難しいことばかりを考えるから。",
+        "language": "日文",
+        "id": "3",
+        "probability": "0.1"
     }
 ]

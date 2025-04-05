@@ -9,8 +9,11 @@ class ReferenceManager:
         print(f"参考音频数量: {len(self.ref_list)}")
         
     def get_random_ref(self) -> tuple:
-        """返回 (文件路径, 提示文本, 语种，参考 ID)"""
-        ref = random.choice(self.ref_list)
+        """返回 (file_path: str, prompt_text: str, language: str, id: str)"""
+
+        # 按照概率选取
+        ref_prob = [float(r["probability"]) for r in self.ref_list]
+        ref = random.choices(self.ref_list, ref_prob, k=1)[0]
         return (
             ref["file_path"],
             ref["prompt_text"],
